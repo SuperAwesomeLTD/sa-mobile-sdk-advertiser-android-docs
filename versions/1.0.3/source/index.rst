@@ -1,7 +1,7 @@
-AwesomeAds Android Advertiser SDK
-=================================
+Android Advertiser SDK
+======================
 
-The AwesomeAds Android Advertiser SDK (Software Development Kit) lets you to easily measure installs in your app in a COPPA compliant way.
+The Android Advertiser SDK (Software Development Kit) lets you easily measure installs of your game in a COPPA compliant way.
 
 =============== ========
 Info            Contents
@@ -18,3 +18,7 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 2
+
+	 Add the SDK through Gradle <01addgradle>
+   Add the SDK as a JAR library <02addjar>
+	 Measure installs <03install>
